@@ -104,13 +104,13 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(186, 13);
             this.label6.TabIndex = 5;
-            this.label6.Text = "Visit the website: melkadze.com/hbab";
+            this.label6.Text = "Visit the website: melkadze.com/ahab";
             // 
             // help
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(292, 99);
+            this.ClientSize = new System.Drawing.Size(292, 91);
             this.ControlBox = false;
             this.Controls.Add(this.label6);
             this.Controls.Add(this.button1);

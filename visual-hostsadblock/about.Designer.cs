@@ -40,7 +40,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(213, 84);
+            this.button1.Location = new System.Drawing.Point(239, 84);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 10;
@@ -100,16 +100,16 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(12, 89);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(129, 13);
+            this.label4.Size = new System.Drawing.Size(215, 13);
             this.label4.TabIndex = 15;
-            this.label4.Text = "Written by Nick Melkadze";
+            this.label4.Text = "Written by Nick Melkadze, at melkadze.com";
             this.label4.Click += new System.EventHandler(this.label4_Click_1);
             // 
             // about
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(296, 115);
+            this.ClientSize = new System.Drawing.Size(326, 107);
             this.ControlBox = false;
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label6);
@@ -124,7 +124,7 @@
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "About";
+            this.Text = "About - Release 1.1";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -109,15 +109,15 @@ namespace visual_hostsadblock
             // infoToolStripMenuItem
             // 
             this.infoToolStripMenuItem.Name = "infoToolStripMenuItem";
-            this.infoToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
+            this.infoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.infoToolStripMenuItem.Text = "View Help";
             this.infoToolStripMenuItem.Click += new System.EventHandler(this.infoToolStripMenuItem_Click);
             // 
             // aboutAHBABToolStripMenuItem
             // 
             this.aboutAHBABToolStripMenuItem.Name = "aboutAHBABToolStripMenuItem";
-            this.aboutAHBABToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
-            this.aboutAHBABToolStripMenuItem.Text = "About HBAB";
+            this.aboutAHBABToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.aboutAHBABToolStripMenuItem.Text = "About AHAB";
             this.aboutAHBABToolStripMenuItem.Click += new System.EventHandler(this.aboutAHBABToolStripMenuItem_Click);
             // 
             // button2
@@ -163,7 +163,7 @@ namespace visual_hostsadblock
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
-            this.Text = "HBAB - Hosts-Based AdBlock";
+            this.Text = "AHAB - Automatic Hosts-based AdBlock";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
